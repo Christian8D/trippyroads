@@ -17,22 +17,21 @@
 	Footer Default
 ------------------------------*/
 
-
 .footer__container {
-    padding-bottom: 65px;
-    padding-top: 76px;
+  padding-bottom: 65px;
+  padding-top: 76px;
 }
 .htc__copyright__area {
-    border-top: 1px solid #d9d9d9;
+  border-top: 1px solid #d9d9d9;
 }
 .copyright__inner {
-    align-items: center;
-    display: flex;
-    height: 60px;
-    justify-content: space-between;
+  align-items: center;
+  display: flex;
+  height: 60px;
+  justify-content: space-between;
 }
 .footer__menu {
-    display: flex;
+  display: flex;
 }
 .footer__details p {
   color: #666666;
@@ -40,80 +39,81 @@
   line-height: 26px;
 }
 .ft__logo {
-    margin-bottom: 24px;
+  margin-bottom: 24px;
 }
+
 .ft__title {
-    color: #444444;
-    font-size: 18px;
-    font-weight: 500;
-    margin-bottom: 30px;
-    text-transform: capitalize;
+  color: #444444;
+  font-size: 18px;
+  font-weight: 500;
+  margin-bottom: 30px;
+  text-transform: capitalize;
 }
 .htc__news__inner {
-    position: relative;
+  position: relative;
 }
 .subscribe__btn {
-    position: absolute;
-    right: 9px;
-    top: 0;
+  position: absolute;
+  right: 9px;
+  top: 0;
 }
 .news__input input {
-    border: 1px solid #d9d9d9;
-    color: #666666;
-    font-size: 12px;
-    height: 40px;
-    padding: 0 46px 0 15px;
+  border: 1px solid #d9d9d9;
+  color: #666666;
+  font-size: 12px;
+  height: 40px;
+  padding: 0 46px 0 15px;
 }
 .subscribe__btn input {
-    background: transparent none repeat scroll 0 0;
-    border: 0 none;
-    height: 40px;
+  background: transparent none repeat scroll 0 0;
+  border: 0 none;
+  height: 40px;
 }
 .footer__inner p {
-    color: #666666;
-    font-size: 14px;
-    line-height: 26px;
+  color: #666666;
+  font-size: 14px;
+  line-height: 26px;
 }
 .social__icon {
-    display: flex;
+  display: flex;
 }
 .social__icon li {
-    padding: 0 10px;
+  padding: 0 10px;
 }
 .social__icon li:first-child {
-    padding-left: 0;
+  padding-left: 0;
 }
 .social__icon li a i {
-    border: 1px solid #c2c2c2;
-    border-radius: 100%;
-    color: #c1c1c1;
-    font-size: 14px;
-    height: 28px;
-    line-height: 26px;
-    text-align: center;
-    transition: all 0.4s ease 0s;
-    width: 28px;
+  border: 1px solid #c2c2c2;
+  border-radius: 100%;
+  color: #c1c1c1;
+  font-size: 14px;
+  height: 28px;
+  line-height: 26px;
+  text-align: center;
+  transition: all 0.4s ease 0s;
+  width: 28px;
 }
 .social__icon li a:hover i {
-    background: #ff4136 none repeat scroll 0 0;
-    border: 1px solid #ff4136;
-    color: #fff;
+  background: #ff4136 none repeat scroll 0 0;
+  border: 1px solid #ff4136;
+  color: #fff;
 }
 .copyright p {
-    color: #666666;
-    font-size: 14px;
+  color: #666666;
+  font-size: 14px;
 }
 .footer__menu li a {
-    color: #666666;
-    font-size: 13px;
-    text-transform: capitalize;
-    transition: all 0.3s ease 0s;
+  color: #666666;
+  font-size: 13px;
+  text-transform: capitalize;
+  transition: all 0.3s ease 0s;
 }
 .footer__menu li {
-    padding: 0 14px;
+  padding: 0 14px;
 }
 .footer__menu li:last-child {
-    padding-right: 0;
+  padding-right: 0;
 }
 .fixed__footer .htc__foooter__area {
   bottom: 0;
@@ -136,13 +136,13 @@
   text-transform: uppercase;
 }
 .ft__title--2::before {
-    background: #666666 none repeat scroll 0 0;
-    bottom: 0;
-    content: "";
-    height: 2px;
-    left: 0;
-    position: absolute;
-    width: 80px;
+  background: #666666 none repeat scroll 0 0;
+  bottom: 0;
+  content: "";
+  height: 2px;
+  left: 0;
+  position: absolute;
+  width: 80px;
 }
 .footer__inner p a {
   color: #666666;
@@ -153,13 +153,6 @@
 .footer--7 .htc__copyright__area {
   border-top: 1px solid #fff;
 }
-
-
-
-
-
-
-
 
 /*---------------------
   Newsletter
@@ -191,18 +184,13 @@
   z-index: 1;
   transition: 0.5s;
 }
-.subscribe__btn:hover{
+.subscribe__btn:hover {
   background: #ff4136;
 }
-
 
 .input__box {
   position: relative;
 }
-
-
-
-
 
 /*-----------------------------
   Footer Four
@@ -220,8 +208,6 @@
   left: 138px;
 }
 
-
-
 /*--------------------------
   Footer Six
 ---------------------------*/
@@ -236,12 +222,12 @@
 }
 
 .footer--6 .ft__widget__content {
-    text-align: center;
+  text-align: center;
 }
 .footer--6 .copyright {
-    border-top: 1px solid #d9d9d9;
-    margin-top: 24px;
-    padding-top: 26px;
+  border-top: 1px solid #d9d9d9;
+  margin-top: 24px;
+  padding-top: 26px;
 }
 .footer--6 .ft__widget.follow-us {
   margin-left: -15px;
@@ -256,11 +242,3 @@
   padding-bottom: 0;
   padding-top: 115px;
 }
-
-
-
-
-
-
-
-
